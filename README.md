@@ -1,4 +1,4 @@
-# Metovian
+# Metovian Exploratory Education Doctrine
 The Metovian Exploratory Education Doctrine (MEED) fosters student development by integrating the principles of Metopedia, emphasizing interconnected knowledge acquisition through investigation, synthesis, exploration, lateral and abstract thinking, the philosophical foundations of sciences, persistent inquiry, cognitive psychology, and metacognition.
 
 # Core Emphases:
