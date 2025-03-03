@@ -39,12 +39,12 @@ The Metovian Exploratory Education Doctrine (MEED) fosters student development b
 
 ChatGPT's deep research feature was utilized to analyze the U.S. Education System, and its findings returned expected results. It was tasked with assessing the Modern Equivalents of Ancient Greek educational concepts, methods, and terminology. (e.g):
 
-- Logos – Rational discourse, reason, and argumentation; critical inquiry
-- Dianoia – Discursive reasoning, logical thinking; logical reasoning
-- Noesis – Intuitive intellect, direct insight; abstract / divergent thinking
-- Episteme – Systematic knowledge, understanding; scientific method
-- Phronesis – Practical wisdom, applied intelligence, practical reasoning
-- Sophia – Theoretical and philosophical exploration; theoretical inquiry
+- **Logos** – Rational discourse, reason, and argumentation; critical inquiry
+- **Dianoia** – Discursive reasoning, logical thinking; logical reasoning
+- **Noesis** – Intuitive intellect, direct insight; abstract / divergent thinking
+- **Episteme** – Systematic knowledge, understanding; scientific method
+- **Phronesis** – Practical wisdom, applied intelligence, practical reasoning
+- **Sophia** – Theoretical and philosophical exploration; theoretical inquiry
 
 It evaluated the U.S. education system, assigning a score of 3 if it excelled in teaching a specific skill or producing students proficient in any of the 96 identified concepts, and a score of 0 if it was the worst or deliberately ineffective. Only five of the 96 concepts were considered undesirable.
 The findings showed that the U.S. education system does not develop proficiency in 46 of the 96 essential skills, methods, behaviors, or concepts. Among the remaining concepts:
@@ -55,8 +55,10 @@ The findings showed that the U.S. education system does not develop proficiency 
 
 # The Five Developed Skills/Behaviors/Methods/Concepts
 
-1. Alogos (Irrational students) – A system that discourages logical reasoning, prioritizing rote memorization over critical thinking, or enforcing unquestioned authority can produce students who do not engage in logical analysis.
-2. Agnoia (Ignorant students) – A system that withholds information, discourages inquiry, or promotes passive learning without encouraging deeper understanding can result in students who remain unaware of essential knowledge.
-3. Echthra logou (Hostile to reason) – A system that frames critical thinking as unnecessary, controversial, or dangerous, or one that fosters emotional responses over logical debate, can develop students who resist discourse and structured reasoning.
-4. Apoideia (Uneducated students) – A system that lacks rigor, does not cultivate intellectual discipline, or devalues education as a whole can produce students who lack formal learning and refinement of thought.
-5. Mneme (Memory-driven students) – A system that overemphasizes memorization without comprehension, creativity, or application can create students who recall information but struggle to apply or analyze it.
+Key research insights are outlined below: 
+
+1. **Alogos (Irrational students)** – A system that discourages logical reasoning, prioritizing rote memorization over critical thinking, or enforcing unquestioned authority can produce students who do not engage in logical analysis.
+2. **Agnoia (Ignorant students)** – A system that withholds information, discourages inquiry, or promotes passive learning without encouraging deeper understanding can result in students who remain unaware of essential knowledge.
+3. **Echthra logou (Hostile to reason)** – A system that frames critical thinking as unnecessary, controversial, or dangerous, or one that fosters emotional responses over logical debate, can develop students who resist discourse and structured reasoning.
+4. **Apoideia (Uneducated students)** – A system that lacks rigor, does not cultivate intellectual discipline, or devalues education as a whole can produce students who lack formal learning and refinement of thought.
+5. **Mneme (Memory-driven students)** – A system that overemphasizes memorization without comprehension, creativity, or application can create students who recall information but struggle to apply or analyze it.
